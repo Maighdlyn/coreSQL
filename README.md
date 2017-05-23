@@ -8,7 +8,7 @@ goal #178
 Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics) and the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries).
 
 - [X] Solution SQL for the project from the SQL Basics course ("Design a store database") is added to a file in your repo named `khan-academy/sql_basics.sql`
-- [ ] Solution SQL for the project from the Advanced SQL queries course ("Data dig") is added to a file in your repo named `khan-academy/advanced_sql_queries.sql`
+- [X] Solution SQL for the project from the Advanced SQL queries course ("Data dig") is added to a file in your repo named `khan-academy/advanced_sql_queries.sql`
 
 ### Day 2: Relational Queries
 
