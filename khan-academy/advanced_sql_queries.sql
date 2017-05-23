@@ -323,11 +323,11 @@ INSERT INTO countries_by_population (country, population, percent_one_year_chang
     "Papua New Guinea", 7476108, 2.12, 154846, 0, 21.0, 5, 3.86, 462831, 16, 13, 950364, 0.10
 );
 
+-- Everything above this line was provided by Khan Academy and everything below is Emma's answer for the exercise.
 
 SELECT AVG(density_per_sq_km) FROM countries_by_population;
 
 SELECT country, density_per_sq_km, net_migrants, net_migrants / area_sq_km AS migrants_per_sq_km FROM countries_by_population ORDER BY migrants_per_sq_km;
-
 
 SELECT COUNT(*),
 CASE
