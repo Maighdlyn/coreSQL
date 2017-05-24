@@ -14,8 +14,8 @@ Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-
 
 Complete the [Relational Queries course](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql) and the [Modifying databases with SQL course](https://www.khanacademy.org/computing/computer-programming/sql#modifying-databases-with-sql)
 
-- [ ] Solution SQL for the project from the Relational Queries course ("Famous people") is added to a file in your repo named `khan-academy/relational_queries.sql`
-- [ ] Solution SQL for the project from the Modifying databases with SQL course ("App impersonator") is added to a file in your repo named `khan-academy/modifying_databases.sql`
+- [X] Solution SQL for the project from the Relational Queries course ("Famous people") is added to a file in your repo named `khan-academy/relational_queries.sql`
+- [X] Solution SQL for the project from the Modifying databases with SQL course ("App impersonator") is added to a file in your repo named `khan-academy/modifying_databases.sql`
 
 ### Day 3: Install Postgres and Complete Tutorials with psql
 

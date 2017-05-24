@@ -1,6 +1,6 @@
 CREATE TABLE music_store (id INTEGER PRIMARY KEY, instrument TEXT, price INTEGER, stock INTEGER, category TEXT);
 
-INSERT INTO music_store VALUES (
+INSERT INTO music_store VALUES
   (1, "clarinet", 300, 5, "woodwind"),
   (2, "flute", 300, 5, "woodwind"),
   (3, "alto sax", 400, 4, "woodwind"),
@@ -15,8 +15,7 @@ INSERT INTO music_store VALUES (
   (12, "trombone", 500, 2, "brass"),
   (13, "baritone", 600, 1, "brass"),
   (14, "tuba", 800, 2, "brass"),
-  (15, "drum sticks", 5, 15, "precussion")
-);
+  (15, "drum sticks", 5, 15, "precussion");
 
 SELECT * FROM music_store WHERE category == "woodwind" ORDER BY price;
 
