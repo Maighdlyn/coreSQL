@@ -50,7 +50,7 @@ _There is nothing to add to your artifact today._
 Exercises 1-11 in the [sql-exercises][sql-exercises] repo are complete and written to the appropriate file:
 
 - [X] `sql/01-create-table-student.sql`
-- [ ] `sql/02-create-table-friend.sql`
+- [X] `sql/02-create-table-friend.sql`
 - [ ] `sql/03-create-table-like.sql`
 - [ ] `sql/04-load-table-learner.sql`
 - [ ] `sql/05-load-table-friend.sql`
