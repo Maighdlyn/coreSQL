@@ -1,2 +1,2 @@
 COPY student_like
-FROM '../data/likes.csv' DELIMITER ',' CSV HEADER;
+FROM '/Users/maighdlyn/Desktop/LGProjects/coreSQL/data/likes.csv' DELIMITER ',' CSV HEADER;

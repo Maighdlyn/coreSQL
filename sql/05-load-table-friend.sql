@@ -1,2 +1,2 @@
 COPY friend
-FROM '../data/friends.csv' DELIMITER ',' CSV HEADER;
+FROM '/Users/maighdlyn/Desktop/LGProjects/coreSQL/data/friends.csv' DELIMITER ',' CSV HEADER;
