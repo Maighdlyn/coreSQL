@@ -51,7 +51,7 @@ Exercises 1-11 in the [sql-exercises][sql-exercises] repo are complete and writt
 
 - [X] `sql/01-create-table-student.sql`
 - [X] `sql/02-create-table-friend.sql`
-- [ ] `sql/03-create-table-like.sql`
+- [X] `sql/03-create-table-like.sql`
 - [ ] `sql/04-load-table-learner.sql`
 - [ ] `sql/05-load-table-friend.sql`
 - [ ] `sql/06-load-table-like.sql`
