@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS student;
 
-CREATE TABLE students (id INTEGER PRIMARY KEY, 
+CREATE TABLE student (id INTEGER PRIMARY KEY, 
   name TEXT,
   grade INTEGER
 );
