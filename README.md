@@ -56,7 +56,7 @@ Exercises 1-11 in the [sql-exercises][sql-exercises] repo are complete and writt
 - [X] `sql/05-load-table-friend.sql`
 - [X] `sql/06-load-table-like.sql`
 - [X] `sql/07-query-friends-gabriel.sql`
-- [ ] `sql/08-query-likes-grade-two-or-more.sql`
+- [X] `sql/08-query-likes-grade-two-or-more.sql`
 - [ ] `sql/09-mutual-likes.sql`
 - [ ] `sql/10-not-liked.sql`
 - [ ] `sql/11-liked-but-does-not-like.sql`
