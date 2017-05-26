@@ -7,5 +7,4 @@ SELECT liker.name AS a, liker.grade, likee.name AS b, likee.grade AS b_grade
 	WHERE likee.id NOT IN (
 		SELECT liker_id
 		FROM student_like
-		)
-;
+		);

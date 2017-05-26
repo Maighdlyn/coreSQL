@@ -68,9 +68,9 @@ _There is nothing to add to your artifact today._
 
 ### General
 
-- [ ] All major features are added via pull requests with a clear description and concise commit messages.
-- [ ] SQL files are well formatted and readable.
-- [ ] All the SQL keywords are capitalized.
+- [X] All major features are added via pull requests with a clear description and concise commit messages.
+- [X] SQL files are well formatted and readable.
+- [X] All the SQL keywords are capitalized.
 
 ### Stretch
 - Complete the [Codeacademy course on SQL](https://www.codecademy.com/learn/learn-sql)
