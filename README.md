@@ -59,7 +59,7 @@ Exercises 1-11 in the [sql-exercises][sql-exercises] repo are complete and writt
 - [X] `sql/08-query-likes-grade-two-or-more.sql`
 - [X] `sql/09-mutual-likes.sql`
 - [X] `sql/10-not-liked.sql`
-- [ ] `sql/11-liked-but-does-not-like.sql`
+- [X] `sql/11-liked-but-does-not-like.sql`
 
 ### Day 5: Exercises on SQL Bolt
 - Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
