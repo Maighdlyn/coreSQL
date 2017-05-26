@@ -57,8 +57,8 @@ Exercises 1-11 in the [sql-exercises][sql-exercises] repo are complete and writt
 - [X] `sql/06-load-table-like.sql`
 - [X] `sql/07-query-friends-gabriel.sql`
 - [X] `sql/08-query-likes-grade-two-or-more.sql`
-- [ ] `sql/09-mutual-likes.sql`
-- [ ] `sql/10-not-liked.sql`
+- [X] `sql/09-mutual-likes.sql`
+- [X] `sql/10-not-liked.sql`
 - [ ] `sql/11-liked-but-does-not-like.sql`
 
 ### Day 5: Exercises on SQL Bolt
