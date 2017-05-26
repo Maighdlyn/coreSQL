@@ -49,17 +49,17 @@ _There is nothing to add to your artifact today._
 
 Exercises 1-11 in the [sql-exercises][sql-exercises] repo are complete and written to the appropriate file:
 
-- [ ] `sql/01-create-table-student.sql`
-- [ ] `sql/02-create-table-friend.sql`
-- [ ] `sql/03-create-table-like.sql`
-- [ ] `sql/04-load-table-learner.sql`
-- [ ] `sql/05-load-table-friend.sql`
-- [ ] `sql/06-load-table-like.sql`
-- [ ] `sql/07-query-friends-gabriel.sql`
-- [ ] `sql/08-query-likes-grade-two-or-more.sql`
-- [ ] `sql/09-mutual-likes.sql`
-- [ ] `sql/10-not-liked.sql`
-- [ ] `sql/11-liked-but-does-not-like.sql`
+- [X] `sql/01-create-table-student.sql`
+- [X] `sql/02-create-table-friend.sql`
+- [X] `sql/03-create-table-like.sql`
+- [X] `sql/04-load-table-learner.sql`
+- [X] `sql/05-load-table-friend.sql`
+- [X] `sql/06-load-table-like.sql`
+- [X] `sql/07-query-friends-gabriel.sql`
+- [X] `sql/08-query-likes-grade-two-or-more.sql`
+- [X] `sql/09-mutual-likes.sql`
+- [X] `sql/10-not-liked.sql`
+- [X] `sql/11-liked-but-does-not-like.sql`
 
 ### Day 5: Exercises on SQL Bolt
 - Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
@@ -68,9 +68,9 @@ _There is nothing to add to your artifact today._
 
 ### General
 
-- [ ] All major features are added via pull requests with a clear description and concise commit messages.
-- [ ] SQL files are well formatted and readable.
-- [ ] All the SQL keywords are capitalized.
+- [X] All major features are added via pull requests with a clear description and concise commit messages.
+- [X] SQL files are well formatted and readable.
+- [X] All the SQL keywords are capitalized.
 
 ### Stretch
 - Complete the [Codeacademy course on SQL](https://www.codecademy.com/learn/learn-sql)
